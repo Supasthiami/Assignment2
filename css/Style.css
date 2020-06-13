@@ -1,0 +1,41 @@
+
+#header-nav{
+border: 0;
+border-radius: 0;
+background-color: 	#808080;
+}
+.navbar-brand span{
+	color: black;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+#nav-list{
+	margin-top: 2px;
+	margin-bottom: 2px;
+	font-size: 1em;
+	background-color: 	#DCDCDC;
+	border: 1px solid black;
+}
+
+#nav-list a:hover{
+background-color: #708090;
+	
+}
+#nav-list a {
+	color:black;
+	text-align: center;
+}
+#para{
+	height:700px;
+	border: 1px solid black;
+	padding: 5px;
+	background-color: 	#C0C0C0;
+	overflow: auto;
+	margin: 0 auto 20px;
+
+}
+
+.icon-bar{
+	border: 1px solid black;
+}
